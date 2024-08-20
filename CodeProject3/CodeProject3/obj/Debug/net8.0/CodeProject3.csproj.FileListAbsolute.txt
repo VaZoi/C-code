@@ -1,0 +1,14 @@
+C:\Users\julie\Documents\C#\CodeProject3\CodeProject3\obj\Debug\net8.0\CodeProject3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julie\Documents\C#\CodeProject3\CodeProject3\obj\Debug\net8.0\CodeProject3.AssemblyInfoInputs.cache
+C:\Users\julie\Documents\C#\CodeProject3\CodeProject3\obj\Debug\net8.0\CodeProject3.AssemblyInfo.cs
+C:\Users\julie\Documents\C#\CodeProject3\CodeProject3\obj\Debug\net8.0\CodeProject3.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\C#\CodeProject3\CodeProject3\bin\Debug\net8.0\CodeProject3.exe
+C:\Users\julie\Documents\C#\CodeProject3\CodeProject3\bin\Debug\net8.0\CodeProject3.deps.json
+C:\Users\julie\Documents\C#\CodeProject3\CodeProject3\bin\Debug\net8.0\CodeProject3.runtimeconfig.json
+C:\Users\julie\Documents\C#\CodeProject3\CodeProject3\bin\Debug\net8.0\CodeProject3.dll
+C:\Users\julie\Documents\C#\CodeProject3\CodeProject3\bin\Debug\net8.0\CodeProject3.pdb
+C:\Users\julie\Documents\C#\CodeProject3\CodeProject3\obj\Debug\net8.0\CodeProject3.dll
+C:\Users\julie\Documents\C#\CodeProject3\CodeProject3\obj\Debug\net8.0\refint\CodeProject3.dll
+C:\Users\julie\Documents\C#\CodeProject3\CodeProject3\obj\Debug\net8.0\CodeProject3.pdb
+C:\Users\julie\Documents\C#\CodeProject3\CodeProject3\obj\Debug\net8.0\CodeProject3.genruntimeconfig.cache
+C:\Users\julie\Documents\C#\CodeProject3\CodeProject3\obj\Debug\net8.0\ref\CodeProject3.dll

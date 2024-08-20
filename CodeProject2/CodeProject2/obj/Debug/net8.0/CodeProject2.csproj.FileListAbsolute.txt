@@ -1,0 +1,14 @@
+C:\Users\julie\Documents\C#\CodeProject2\CodeProject2\bin\Debug\net8.0\CodeProject2.exe
+C:\Users\julie\Documents\C#\CodeProject2\CodeProject2\bin\Debug\net8.0\CodeProject2.deps.json
+C:\Users\julie\Documents\C#\CodeProject2\CodeProject2\bin\Debug\net8.0\CodeProject2.runtimeconfig.json
+C:\Users\julie\Documents\C#\CodeProject2\CodeProject2\bin\Debug\net8.0\CodeProject2.dll
+C:\Users\julie\Documents\C#\CodeProject2\CodeProject2\bin\Debug\net8.0\CodeProject2.pdb
+C:\Users\julie\Documents\C#\CodeProject2\CodeProject2\obj\Debug\net8.0\CodeProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julie\Documents\C#\CodeProject2\CodeProject2\obj\Debug\net8.0\CodeProject2.AssemblyInfoInputs.cache
+C:\Users\julie\Documents\C#\CodeProject2\CodeProject2\obj\Debug\net8.0\CodeProject2.AssemblyInfo.cs
+C:\Users\julie\Documents\C#\CodeProject2\CodeProject2\obj\Debug\net8.0\CodeProject2.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\C#\CodeProject2\CodeProject2\obj\Debug\net8.0\CodeProject2.dll
+C:\Users\julie\Documents\C#\CodeProject2\CodeProject2\obj\Debug\net8.0\refint\CodeProject2.dll
+C:\Users\julie\Documents\C#\CodeProject2\CodeProject2\obj\Debug\net8.0\CodeProject2.pdb
+C:\Users\julie\Documents\C#\CodeProject2\CodeProject2\obj\Debug\net8.0\CodeProject2.genruntimeconfig.cache
+C:\Users\julie\Documents\C#\CodeProject2\CodeProject2\obj\Debug\net8.0\ref\CodeProject2.dll

@@ -1,0 +1,14 @@
+C:\Users\julie\Documents\C#\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\MonsterHeroGame.exe
+C:\Users\julie\Documents\C#\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\MonsterHeroGame.deps.json
+C:\Users\julie\Documents\C#\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\MonsterHeroGame.runtimeconfig.json
+C:\Users\julie\Documents\C#\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\MonsterHeroGame.dll
+C:\Users\julie\Documents\C#\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\MonsterHeroGame.pdb
+C:\Users\julie\Documents\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\MonsterHeroGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julie\Documents\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\MonsterHeroGame.AssemblyInfoInputs.cache
+C:\Users\julie\Documents\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\MonsterHeroGame.AssemblyInfo.cs
+C:\Users\julie\Documents\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\MonsterHeroGame.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\MonsterHeroGame.dll
+C:\Users\julie\Documents\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\MonsterHeroGame.dll
+C:\Users\julie\Documents\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\MonsterHeroGame.pdb
+C:\Users\julie\Documents\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\MonsterHeroGame.genruntimeconfig.cache
+C:\Users\julie\Documents\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\MonsterHeroGame.dll
