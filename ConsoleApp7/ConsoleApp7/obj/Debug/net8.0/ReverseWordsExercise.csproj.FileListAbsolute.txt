@@ -1,0 +1,15 @@
+C:\Users\julie\Documents\C#\ConsoleApp7\ConsoleApp7\bin\Debug\net8.0\ReverseWordsExercise.exe
+C:\Users\julie\Documents\C#\ConsoleApp7\ConsoleApp7\bin\Debug\net8.0\ReverseWordsExercise.deps.json
+C:\Users\julie\Documents\C#\ConsoleApp7\ConsoleApp7\bin\Debug\net8.0\ReverseWordsExercise.runtimeconfig.json
+C:\Users\julie\Documents\C#\ConsoleApp7\ConsoleApp7\bin\Debug\net8.0\ReverseWordsExercise.dll
+C:\Users\julie\Documents\C#\ConsoleApp7\ConsoleApp7\bin\Debug\net8.0\ReverseWordsExercise.pdb
+C:\Users\julie\Documents\C#\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ReverseWordsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julie\Documents\C#\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ReverseWordsExercise.AssemblyInfoInputs.cache
+C:\Users\julie\Documents\C#\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ReverseWordsExercise.AssemblyInfo.cs
+C:\Users\julie\Documents\C#\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ReverseWordsExercise.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\C#\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ReverseWordsExercise.sourcelink.json
+C:\Users\julie\Documents\C#\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ReverseWordsExercise.dll
+C:\Users\julie\Documents\C#\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\refint\ReverseWordsExercise.dll
+C:\Users\julie\Documents\C#\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ReverseWordsExercise.pdb
+C:\Users\julie\Documents\C#\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ReverseWordsExercise.genruntimeconfig.cache
+C:\Users\julie\Documents\C#\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ref\ReverseWordsExercise.dll

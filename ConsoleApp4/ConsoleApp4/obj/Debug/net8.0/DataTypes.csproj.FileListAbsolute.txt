@@ -1,0 +1,15 @@
+C:\Users\julie\Documents\C#\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\DataTypes.exe
+C:\Users\julie\Documents\C#\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\DataTypes.deps.json
+C:\Users\julie\Documents\C#\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\DataTypes.runtimeconfig.json
+C:\Users\julie\Documents\C#\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\DataTypes.dll
+C:\Users\julie\Documents\C#\ConsoleApp4\ConsoleApp4\bin\Debug\net8.0\DataTypes.pdb
+C:\Users\julie\Documents\C#\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julie\Documents\C#\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\DataTypes.AssemblyInfoInputs.cache
+C:\Users\julie\Documents\C#\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\DataTypes.AssemblyInfo.cs
+C:\Users\julie\Documents\C#\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\C#\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\DataTypes.sourcelink.json
+C:\Users\julie\Documents\C#\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\DataTypes.dll
+C:\Users\julie\Documents\C#\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\refint\DataTypes.dll
+C:\Users\julie\Documents\C#\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\DataTypes.pdb
+C:\Users\julie\Documents\C#\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\DataTypes.genruntimeconfig.cache
+C:\Users\julie\Documents\C#\ConsoleApp4\ConsoleApp4\obj\Debug\net8.0\ref\DataTypes.dll
